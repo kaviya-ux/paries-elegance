@@ -1,1 +1,0 @@
-# paries-elegance
