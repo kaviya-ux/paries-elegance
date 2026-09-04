@@ -1,0 +1,1270 @@
+{
+  "activities": [
+    {
+      "id": "seine-sunset-cruise",
+      "title": "Seine River Sunset Cruise with Champagne",
+      "category": "Cruises & Water",
+      "tag": "Romance",
+      "duration": "2 Hours",
+      "priceINR": 3200,
+      "priceEUR": 36,
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&auto=format&fit=crop&q=80",
+      "description": "Glide past Paris's most iconic landmarks as the city lights up, enjoying a glass of premium champagne on a private boat.",
+      "detailedDescription": "Experience the magic of Paris at twilight on this luxurious Seine River cruise. As the sun sets behind the Eiffel Tower, you'll glide past illuminated landmarks including Notre-Dame, the Musée d'Orsay, and the Grand Palais. Your private boat comes with a personal guide who shares fascinating stories about Parisian history and architecture. The experience includes a glass of premium French champagne and gourmet canapés. Perfect for couples or special celebrations.",
+      "highlights": [
+        "Private boat experience",
+        "Professional guide",
+        "Champagne & canapés included",
+        "Photography opportunities",
+        "Evening departure times"
+      ],
+      "bestFor": [
+        "Couples",
+        "Anniversaries",
+        "Photography enthusiasts",
+        "First-time visitors"
+      ],
+      "whatToBring": [
+        "Camera",
+        "Light jacket (evening breeze)",
+        "Comfortable shoes"
+      ],
+      "meetingPoint": "Port de la Bourdonnais, near Eiffel Tower",
+      "difficulty": "Easy",
+      "accessibility": "Wheelchair accessible",
+      "groupSize": "Maximum 8 guests"
+    },
+    {
+      "id": "louvre-vip",
+      "title": "Louvre Museum VIP Early Access",
+      "category": "Museums & Art",
+      "tag": "Heritage",
+      "duration": "3.5 Hours",
+      "priceINR": 6500,
+      "priceEUR": 72,
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&auto=format&fit=crop&q=80",
+      "description": "Beat the crowds and experience the Mona Lisa and Venus de Milo with an expert art historian before public opening hours.",
+      "detailedDescription": "Enter the world's largest art museum before it opens to the public. This exclusive VIP experience gives you early access to the Louvre's masterpieces without the usual crowds. Your expert art historian guide will take you through the museum's highlights, including the Mona Lisa, Venus de Milo, and Winged Victory of Samothrace. Learn about the museum's fascinating history as a royal palace and discover hidden stories behind famous artworks. Includes skip-the-line access even after regular opening hours.",
+      "highlights": [
+        "Pre-public opening access",
+        "Expert art historian guide",
+        "Small group (max 6)",
+        "Skip-the-line tickets",
+        "Audio headsets provided"
+      ],
+      "bestFor": [
+        "Art lovers",
+        "History enthusiasts",
+        "First-time Paris visitors",
+        "Photographers"
+      ],
+      "whatToBring": [
+        "Comfortable walking shoes",
+        "Camera (no flash)",
+        "Water bottle"
+      ],
+      "meetingPoint": "Louvre Pyramid entrance",
+      "difficulty": "Moderate (lots of walking)",
+      "accessibility": "Partially accessible",
+      "groupSize": "Maximum 6 guests"
+    },
+    {
+      "id": "montmartre-walk",
+      "title": "Montmartre Gastronomy Walking Tour",
+      "category": "Culinary Experiences",
+      "tag": "Culinary",
+      "duration": "3 Hours",
+      "priceINR": 4800,
+      "priceEUR": 54,
+      "image": "https://images.unsplash.com/photo-1550340499-a6c60fc8287c?w=800&auto=format&fit=crop&q=80",
+      "description": "Stroll through the historic bohemian district while sampling exquisite French cheeses, pastries and wine.",
+      "detailedDescription": "Discover the culinary heart of Montmartre, the historic bohemian district that inspired Picasso, Dalí, and Hemingway. This walking tour takes you through winding cobblestone streets to hidden food gems. Sample artisanal cheeses from a fromagerie, try freshly baked croissants from a century-old boulangerie, visit a local chocolatier, and end with wine tasting at a traditional French cave. Your guide shares stories about Montmartre's artistic heritage while you taste your way through this charming neighborhood.",
+      "highlights": [
+        "6+ food tastings",
+        "Local guide",
+        "Wine tasting included",
+        "Hidden locations",
+        "Artistic history"
+      ],
+      "bestFor": [
+        "Foodies",
+        "Culture enthusiasts",
+        "Morning activity",
+        "Casual walkers"
+      ],
+      "whatToBring": [
+        "Comfortable shoes",
+        "Appetite",
+        "Small bag for purchases"
+      ],
+      "meetingPoint": "Anvers Metro Station",
+      "difficulty": "Easy - Moderate",
+      "accessibility": "Some stairs and hills",
+      "groupSize": "Maximum 10 guests"
+    },
+    {
+      "id": "versailles-day-trip",
+      "title": "Versailles Palace & Gardens Day Trip",
+      "category": "Guided Tours",
+      "tag": "Heritage",
+      "duration": "Half Day",
+      "priceINR": 7200,
+      "priceEUR": 80,
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=800&auto=format&fit=crop&q=80",
+      "description": "Discover the opulent world of French royalty with skip-the-line access to the Palace and its gardens.",
+      "detailedDescription": "Step into the world of French royalty with this comprehensive Versailles experience. Your expert guide will lead you through the opulent State Apartments, including the famous Hall of Mirrors where the Treaty of Versailles was signed. Learn about the daily lives of Louis XIV and Marie Antoinette as you explore the King and Queen's private chambers. After the palace tour, enjoy free time to wander the magnificent gardens, featuring fountains, sculptures, and the Grand Trianon. Includes round-trip transportation from Paris and skip-the-line access.",
+      "highlights": [
+        "Skip-the-line access",
+        "Expert historian guide",
+        "Palace & gardens access",
+        "Transportation included",
+        "Audio guides available"
+      ],
+      "bestFor": [
+        "History buffs",
+        "First-time visitors",
+        "Full day experience",
+        "Architecture enthusiasts"
+      ],
+      "whatToBring": [
+        "Comfortable walking shoes",
+        "Water",
+        "Sun protection (summer)",
+        "Light jacket (indoor)"
+      ],
+      "meetingPoint": "Central Paris pickup point",
+      "difficulty": "Moderate (extensive walking)",
+      "accessibility": "Partially accessible",
+      "groupSize": "Maximum 25 guests"
+    },
+    {
+      "id": "versailles-after-hours",
+      "title": "Versailles After Hours",
+      "category": "Guided Tours",
+      "tag": "Exclusive",
+      "duration": "2 Hours",
+      "priceINR": 25000,
+      "priceEUR": 280,
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=800&auto=format&fit=crop&q=80",
+      "description": "Exclusive VIP access to the Palace of Versailles and its gardens without the daytime crowds.",
+      "detailedDescription": "Experience Versailles as royal guests once did—after the crowds have gone. This exclusive evening tour grants you private access to the Palace of Versailles during select summer evenings. Wander through the Hall of Mirrors and royal apartments in golden twilight, then enjoy a champagne reception in the gardens as the musical fountains perform. Your expert guide shares intimate stories of court life, intrigue, and romance. A truly magical experience that few visitors ever get to witness.",
+      "highlights": [
+        "Private evening access",
+        "Champagne reception",
+        "Musical fountains",
+        "Maximum 8 guests",
+        "Exclusive locations"
+      ],
+      "bestFor": [
+        "Luxury travelers",
+        "Special occasions",
+        "Photographers",
+        "History enthusiasts"
+      ],
+      "whatToBring": [
+        "Dress code: smart casual",
+        "Camera",
+        "Light jacket",
+        "Comfortable shoes"
+      ],
+      "meetingPoint": "Versailles Palace entrance",
+      "difficulty": "Easy",
+      "accessibility": "Limited accessibility",
+      "groupSize": "Maximum 8 guests"
+    },
+    {
+      "id": "macaron-masterclass",
+      "title": "Macaron Masterclass",
+      "category": "Culinary Experiences",
+      "tag": "Culinary",
+      "duration": "2 Hours",
+      "priceINR": 8000,
+      "priceEUR": 90,
+      "image": "https://images.unsplash.com/photo-1558326567-98ae2405596b?w=800&auto=format&fit=crop&q=80",
+      "description": "Learn the art of French patisserie from a master chef in a historic Le Marais kitchen.",
+      "detailedDescription": "Master the art of making perfect French macarons in this hands-on cooking class. Under the guidance of a professional pâtissier in a charming Le Marais kitchen, you'll learn the secrets of creating these delicate confections. From meringue techniques to flavoring and filling, you'll create your own batch of macarons to take home. The class includes all ingredients, equipment, and recipes. Perfect for beginners and aspiring bakers alike. Vegetarian-friendly options available.",
+      "highlights": [
+        "Hands-on experience",
+        "Professional chef instruction",
+        "Take home your creations",
+        "Recipes included",
+        "Small group setting"
+      ],
+      "bestFor": [
+        "Food enthusiasts",
+        "Couples",
+        "Beginner bakers",
+        "Unique experience"
+      ],
+      "whatToBring": [
+        "Apron (provided)",
+        "Container for macarons",
+        "Enthusiasm!"
+      ],
+      "meetingPoint": "Le Marais cooking studio",
+      "difficulty": "Beginner-friendly",
+      "accessibility": "Accessible location",
+      "groupSize": "Maximum 8 guests"
+    },
+    {
+      "id": "personal-shopper",
+      "title": "Personal Shopper Experience",
+      "category": "Luxury Shopping",
+      "tag": "Lifestyle",
+      "duration": "4 Hours",
+      "priceINR": 18000,
+      "priceEUR": 200,
+      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800&auto=format&fit=crop&q=80",
+      "description": "A guided tour of Parisian haute couture and bespoke boutiques with a styling consultant.",
+      "detailedDescription": "Experience Paris like a fashion insider with this personalized shopping experience. Your professional stylist will curate a shopping itinerary based on your preferences, budget, and style. Visit exclusive ateliers, concept stores, and designer boutiques that only locals know about. Get expert advice on French fashion trends, styling tips, and how to build a capsule wardrobe. Includes champagne during the experience and personal shopping bag. Can be customized for menswear, womenswear, or accessories.",
+      "highlights": [
+        "Personal stylist",
+        "Exclusive boutiques",
+        "Champagne included",
+        "Customized itinerary",
+        "Fashion advice"
+      ],
+      "bestFor": [
+        "Fashion enthusiasts",
+        "Luxury shoppers",
+        "Special occasions",
+        "Gift seekers"
+      ],
+      "whatToBring": [
+        "Comfortable shoes",
+        "Credit card",
+        "Shopping list (optional)",
+        "Water"
+      ],
+      "meetingPoint": "Central Paris luxury district",
+      "difficulty": "Easy",
+      "accessibility": "Wheelchair accessible",
+      "groupSize": "Private (1-2 guests)"
+    },
+    {
+      "id": "eiffel-tower-summit",
+      "title": "Eiffel Tower Summit Skip-the-Line",
+      "category": "Landmarks & Monuments",
+      "tag": "Must-See",
+      "duration": "2 Hours",
+      "priceINR": 4500,
+      "priceEUR": 50,
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&auto=format&fit=crop&q=80",
+      "description": "Ascend to the highest observation deck in Paris with priority access and expert commentary.",
+      "detailedDescription": "Skip the long queues and ascend to the top of the Iron Lady for the most spectacular views of Paris. This guided experience takes you to the summit (276m) where you can see up to 70km on a clear day. Your expert guide shares the fascinating history of Gustave Eiffel's creation and points out landmarks from above. Visit both the first and second floors before heading to the summit. Includes priority elevator access and engaging commentary about the tower's engineering and cultural significance.",
+      "highlights": [
+        "Skip-the-line access",
+        "Summit access included",
+        "Expert guide",
+        "Panoramic views",
+        "Historical insights"
+      ],
+      "bestFor": [
+        "First-time visitors",
+        "Photographers",
+        "Families",
+        "History enthusiasts"
+      ],
+      "whatToBring": [
+        "Camera",
+        "Light jacket (windy at top)",
+        "Comfortable shoes"
+      ],
+      "meetingPoint": "Eiffel Tower base",
+      "difficulty": "Easy (elevator access)",
+      "accessibility": "Wheelchair accessible",
+      "groupSize": "Maximum 20 guests"
+    },
+    {
+      "id": "catacombs-tour",
+      "title": "Paris Catacombs Underground Tour",
+      "category": "Unique Experiences",
+      "tag": "Adventure",
+      "duration": "2.5 Hours",
+      "priceINR": 5200,
+      "priceEUR": 58,
+      "image": "https://images.unsplash.com/photo-1548268770-66184a21657e?w=800&auto=format&fit=crop&q=80",
+      "description": "Explore the mysterious underground ossuary that holds the remains of over six million Parisians.",
+      "detailedDescription": "Descend into the fascinating underworld of Paris on this guided tour of the Catacombs. Your expert historian will lead you through winding tunnels lined with the bones of over six million people, transferred here in the 18th century. Learn about the history, legends, and engineering behind this unique underground network. The tour includes exclusive access to areas not open to the general public and detailed explanations of the memorial's significance. A truly unforgettable and slightly macabre experience.",
+      "highlights": [
+        "Skip-the-line access",
+        "Expert historian guide",
+        "Exclusive areas",
+        "Small group",
+        "Historical insights"
+      ],
+      "bestFor": [
+        "History buffs",
+        "Adventure seekers",
+        "Unique experience lovers",
+        "Adults only"
+      ],
+      "whatToBring": [
+        "Comfortable shoes",
+        "Light jacket (underground)",
+        "Water",
+        "No flash photography"
+      ],
+      "meetingPoint": "Catacombs entrance",
+      "difficulty": "Moderate (stairs and walking)",
+      "accessibility": "Not wheelchair accessible",
+      "groupSize": "Maximum 14 guests"
+    },
+    {
+      "id": "cooking-class-market",
+      "title": "French Market & Cooking Class",
+      "category": "Culinary Experiences",
+      "tag": "Culinary",
+      "duration": "4 Hours",
+      "priceINR": 9500,
+      "priceEUR": 105,
+      "image": "https://images.unsplash.com/photo-1762994576926-b8268190a2c9?w=800&auto=format&fit=crop&q=80",
+      "description": "Shop at a local French market and prepare a traditional 3-course meal with a professional chef.",
+      "detailedDescription": "Experience the full French culinary journey from market to table. Begin by visiting a bustling local market with your chef to select the freshest seasonal ingredients. Learn how to choose the best produce, cheese, and meats like a local. Then return to a beautiful cooking studio to prepare a traditional 3-course French meal. Your chef will teach you techniques and recipes that you can recreate at home. End by enjoying your creations with paired wines. Perfect for food lovers who want an authentic taste of French culture.",
+      "highlights": [
+        "Market tour included",
+        "Professional chef",
+        "3-course meal",
+        "Wine pairing",
+        "Recipes to take home"
+      ],
+      "bestFor": [
+        "Food enthusiasts",
+        "Couples",
+        "Small groups",
+        "Cultural immersion"
+      ],
+      "whatToBring": [
+        "Comfortable shoes",
+        "Market bag (provided)",
+        " Appetite"
+      ],
+      "meetingPoint": "Local market (varies by day)",
+      "difficulty": "Beginner-friendly",
+      "accessibility": "Accessible location",
+      "groupSize": "Maximum 8 guests"
+    },
+    {
+      "id": "night-illuminations",
+      "title": "Paris Night Illuminations Tour",
+      "category": "Sightseeing Tours",
+      "tag": "Romance",
+      "duration": "3 Hours",
+      "priceINR": 3800,
+      "priceEUR": 42,
+      "image": "https://images.unsplash.com/photo-1766847733701-0a1209d326c3?w=800&auto=format&fit=crop&q=80",
+      "description": "See the City of Light sparkle on this evening driving tour past illuminated monuments and neighborhoods.",
+      "detailedDescription": "Discover why Paris is called the City of Light on this magical evening tour. As the sun sets, you'll drive past illuminated monuments including the Eiffel Tower (sparkling on the hour), Arc de Triomphe, Notre-Dame, and the Louvre. Your driver-guide shares stories about each landmark while you enjoy the spectacular night views. The tour includes photo stops at the best vantage points and passes through charming neighborhoods like Montmartre and the Latin Quarter. A perfect introduction to Paris's evening beauty.",
+      "highlights": [
+        "Evening departure",
+        "Photo stops included",
+        "Driver-guide",
+        "All major landmarks",
+        "Comfortable vehicle"
+      ],
+      "bestFor": [
+        "First-time visitors",
+        "Photographers",
+        "Evening activity",
+        "Relaxed experience"
+      ],
+      "whatToBring": [
+        "Camera",
+        "Light jacket",
+        "Comfortable clothes"
+      ],
+      "meetingPoint": "Central Paris hotel pickup",
+      "difficulty": "Easy",
+      "accessibility": "Wheelchair accessible vehicle",
+      "groupSize": "Maximum 8 guests"
+    },
+    {
+      "id": "gourmet-chocolate",
+      "title": "Gourmet Chocolate Walking Tour",
+      "category": "Culinary Experiences",
+      "tag": "Sweet Treats",
+      "duration": "2.5 Hours",
+      "priceINR": 4200,
+      "priceEUR": 47,
+      "image": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?w=800&auto=format&fit=crop&q=80",
+      "description": "Indulge in Paris's finest chocolates on this sweet walking tour through the city's best chocolatiers.",
+      "detailedDescription": "Paris is renowned for its artisanal chocolatiers, and this tour introduces you to the best of them. Visit historic chocolate houses and innovative newcomers, sampling everything from traditional truffles to exotic flavor combinations. Your guide explains the history of chocolate in France and the techniques behind each creation. You'll visit at least 5 different shops, with tastings at each. Includes a chocolate tasting notebook and recommendations for gifts to take home. A must for chocolate lovers.",
+      "highlights": [
+        "5+ chocolate tastings",
+        "Expert guide",
+        "Gift recommendations",
+        "Historic shops",
+        "Small group"
+      ],
+      "bestFor": [
+        "Chocolate lovers",
+        "Foodies",
+        "Gift seekers",
+        "Sweet tooths"
+      ],
+      "whatToBring": [
+        "Comfortable shoes",
+        "Water",
+        "Small bag for purchases"
+      ],
+      "meetingPoint": "Saint-Germain-des-Prés",
+      "difficulty": "Easy walking",
+      "accessibility": "Mostly accessible",
+      "groupSize": "Maximum 10 guests"
+    },
+    {
+      "id": "orangerie-museum",
+      "title": "Musée de l'Orangerie Private Tour",
+      "category": "Museums & Art",
+      "tag": "Art & Culture",
+      "duration": "2 Hours",
+      "priceINR": 5800,
+      "priceEUR": 65,
+      "image": "https://images.unsplash.com/photo-1577720580479-7d839d829c73?w=800&auto=format&fit=crop&q=80",
+      "description": "Experience Monet's legendary Water Lilies in an intimate setting with an expert art guide.",
+      "detailedDescription": "Discover the intimate masterpiece that houses Claude Monet's legendary Water Lilies cycle. This private tour gives you exclusive after-hours access to the Musée de l'Orangerie, where eight massive panels of Monet's water lily paintings create an immersive experience. Your art historian guide explains Monet's technique, the garden at Giverny that inspired him, and the impact of these works on modern art. The tour also includes the museum's impressive collection of Impressionist and Post-Impressionist works by Renoir, Picasso, and Matisse.",
+      "highlights": [
+        "Private access",
+        "Expert art historian",
+        "Small group",
+        "Impressionist masterpieces",
+        "Audio equipment"
+      ],
+      "bestFor": [
+        "Art lovers",
+        "Monet enthusiasts",
+        "Intimate experience",
+        "Culture seekers"
+      ],
+      "whatToBring": [
+        "Camera (no flash)",
+        "Comfortable shoes",
+        "Light jacket"
+      ],
+      "meetingPoint": "Musée de l'Orangerie entrance",
+      "difficulty": "Easy",
+      "accessibility": "Wheelchair accessible",
+      "groupSize": "Maximum 6 guests"
+    },
+    {
+      "id": "latin-quarter-walk",
+      "title": "Latin Quarter Literary Walk",
+      "category": "Walking Tours",
+      "tag": "Literature",
+      "duration": "2.5 Hours",
+      "priceINR": 3500,
+      "priceEUR": 39,
+      "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=800&auto=format&fit=crop&q=80",
+      "description": "Walk in the footsteps of Hemingway, Sartre, and other literary legends in Paris's intellectual heart.",
+      "detailedDescription": "Explore the Latin Quarter, the intellectual heart of Paris where writers, philosophers, and artists have gathered for centuries. Your literary guide takes you to the cafes where Hemingway wrote, the bookstores that inspired James Joyce, and the universities where Sartre and de Beauvoir debated. Visit Shakespeare and Company, the legendary English bookstore, and learn about the Lost Generation. The tour includes literary readings, historical context, and recommendations for further reading. Perfect for book lovers and history enthusiasts.",
+      "highlights": [
+        "Literary history",
+        "Famous cafes",
+        "Shakespeare & Company",
+        "Expert guide",
+        "Small group"
+      ],
+      "bestFor": [
+        "Book lovers",
+        "History enthusiasts",
+        "Writers",
+        "Cultural explorers"
+      ],
+      "whatToBring": [
+        "Comfortable shoes",
+        "Notebook (optional)",
+        "Water"
+      ],
+      "meetingPoint": "Luxembourg Gardens",
+      "difficulty": "Easy walking",
+      "accessibility": "Mostly accessible",
+      "groupSize": "Maximum 12 guests"
+    },
+    {
+      "id": "perfume-workshop",
+      "title": "Perfume Making Workshop",
+      "category": "Unique Experiences",
+      "tag": "Luxury",
+      "duration": "2 Hours",
+      "priceINR": 7200,
+      "priceEUR": 80,
+      "image": "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?w=800&auto=format&fit=crop&q=80",
+      "description": "Create your own signature fragrance in a historic Parisian perfume atelier.",
+      "detailedDescription": "Create your own signature fragrance in this hands-on perfume workshop held in a historic Parisian atelier. Under the guidance of a master perfumer, learn about the art of perfumery, from extraction techniques to fragrance families. Experiment with a selection of high-quality essential oils to create a unique scent that reflects your personality. You'll take home a 50ml bottle of your custom perfume, along with the formula to recreate it. A luxurious and personal souvenir of your time in Paris.",
+      "highlights": [
+        "Master perfumer guidance",
+        "Custom fragrance creation",
+        "Take home your perfume",
+        "Historic location",
+        "Small group"
+      ],
+      "bestFor": [
+        "Luxury seekers",
+        "Unique experience",
+        "Couples",
+        "Gift makers"
+      ],
+      "whatToBring": [
+        "Interest in fragrance",
+        "Comfortable clothes"
+      ],
+      "meetingPoint": "Marais perfume atelier",
+      "difficulty": "Beginner-friendly",
+      "accessibility": "Accessible location",
+      "groupSize": "Maximum 6 guests"
+    },
+    {
+      "id": "bike-tour-paris",
+      "title": "Paris Bike Tour with Food Stops",
+      "category": "Active Tours",
+      "tag": "Adventure",
+      "duration": "4 Hours",
+      "priceINR": 4800,
+      "priceEUR": 54,
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&auto=format&fit=crop&q=80",
+      "description": "See Paris like a local on this leisurely bike tour with stops at local food shops and cafes.",
+      "detailedDescription": "Experience Paris from a local's perspective on this leisurely bike tour along the Seine and through charming neighborhoods. Your route takes you past major landmarks and hidden gems, with stops at local food shops for tastings. Enjoy a croissant at a historic boulangerie, sample cheese at a fromagerie, and pause for coffee at a neighborhood café. The tour uses comfortable electric bikes for easy riding, and your guide shares insights about Parisian life and history. Includes helmet, bike rental, and all food tastings.",
+      "highlights": [
+        "Electric bikes included",
+        "Food tastings",
+        "Local guide",
+        "Scenic route",
+        "Small group"
+      ],
+      "bestFor": [
+        "Active travelers",
+        "Foodies",
+        "Casual cyclists",
+        "Outdoor enthusiasts"
+      ],
+      "whatToBring": [
+        "Comfortable clothes",
+        "Closed shoes",
+        "Sun protection",
+        "Water"
+      ],
+      "meetingPoint": "Central Paris bike shop",
+      "difficulty": "Easy (electric bikes)",
+      "accessibility": "Limited accessibility",
+      "groupSize": "Maximum 8 guests"
+    },
+    {
+      "id": "sainte-chapelle",
+      "title": "Sainte-Chapelle & Conciergerie Tour",
+      "category": "Historic Sites",
+      "tag": "Heritage",
+      "duration": "1.5 Hours",
+      "priceINR": 3800,
+      "priceEUR": 42,
+      "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&auto=format&fit=crop&q=80",
+      "description": "Visit two stunning Gothic masterpieces on Île de la Cité, the heart of historic Paris.",
+      "detailedDescription": "Explore two of Paris's most stunning Gothic monuments on this guided tour of Île de la Cité. Sainte-Chapelle, built in the 13th century, features 1,113 stained glass windows depicting biblical scenes in breathtaking colors. The neighboring Conciergerie, once a royal palace and later a revolutionary prison, held Marie Antoinette before her execution. Your expert guide brings both sites to life with stories of French royalty, revolution, and architectural innovation. Skip-the-line access included for both sites.",
+      "highlights": [
+        "Skip-the-line access",
+        "Two monuments",
+        "Expert historian",
+        "Stained glass masterpieces",
+        "Revolutionary history"
+      ],
+      "bestFor": [
+        "History buffs",
+        "Architecture enthusiasts",
+        "First-time visitors",
+        "Art lovers"
+      ],
+      "whatToBring": [
+        "Camera",
+        "Comfortable shoes",
+        "Light jacket"
+      ],
+      "meetingPoint": "Sainte-Chapelle entrance",
+      "difficulty": "Easy",
+      "accessibility": "Sainte-Chapelle: stairs, Conciergerie: accessible",
+      "groupSize": "Maximum 15 guests"
+    },
+    {
+      "id": "picnic-eiffel",
+      "title": "Luxury Picnic at Eiffel Tower",
+      "category": "Unique Experiences",
+      "tag": "Romance",
+      "duration": "2 Hours",
+      "priceINR": 8500,
+      "priceEUR": 95,
+      "image": "https://images.unsplash.com/photo-1528715471579-d1bcf0ba5e83?w=800&auto=format&fit=crop&q=80",
+      "description": "Enjoy a gourmet French picnic on the Champ de Mars with the Eiffel Tower as your backdrop.",
+      "detailedDescription": "Experience the most romantic picnic spot in Paris with this luxury picnic experience on the Champ de Mars. Your picnic setup includes a comfortable blanket, cushions, and a beautifully arranged basket with gourmet French treats: artisanal cheeses, fresh baguette, charcuterie, seasonal fruits, macarons, and champagne. Your host sets up everything and provides recommendations for the best viewing spots. Perfect for proposals, anniversaries, or simply creating unforgettable memories. Different time slots available for sunset or evening views.",
+      "highlights": [
+        "Gourmet food included",
+        "Champagne provided",
+        "Setup and cleanup",
+        "Prime location",
+        "Flexible timing"
+      ],
+      "bestFor": [
+        "Couples",
+        "Special occasions",
+        "Romantic experiences",
+        "Relaxed luxury"
+      ],
+      "whatToBring": [
+        "Camera",
+        "Light jacket (evening)",
+        "Sun protection (daytime)"
+      ],
+      "meetingPoint": "Champ de Mars",
+      "difficulty": "Easy",
+      "accessibility": "Wheelchair accessible",
+      "groupSize": "Private (2 guests)"
+    },
+    {
+      "id": "marais-shopping",
+      "title": "Le Marais Shopping & Culture Walk",
+      "category": "Shopping Tours",
+      "tag": "Lifestyle",
+      "duration": "3 Hours",
+      "priceINR": 4500,
+      "priceEUR": 50,
+      "image": "https://images.unsplash.com/photo-1471623320832-752e8bbf8413?w=800&auto=format&fit=crop&q=80",
+      "description": "Discover the trendy boutiques, art galleries, and historic sites of Paris's coolest neighborhood.",
+      "detailedDescription": "Explore Le Marais, Paris's trendiest neighborhood, on this guided shopping and culture walk. Your route takes you through medieval streets to discover the area's unique mix of high-end boutiques, concept stores, art galleries, and historic sites. Visit a traditional Jewish bakery, explore hidden courtyards, and stop at the Place des Vosges, the city's oldest planned square. Your guide shares fashion tips, neighborhood history, and recommendations for the best local spots. Includes coffee break at a trendy café.",
+      "highlights": [
+        "Local guide",
+        "Fashion tips",
+        "Historic sites",
+        "Coffee included",
+        "Small group"
+      ],
+      "bestFor": [
+        "Fashion enthusiasts",
+        "Culture seekers",
+        "Shoppers",
+        "Urban explorers"
+      ],
+      "whatToBring": [
+        "Comfortable shoes",
+        "Credit card",
+        "Water",
+        "Shopping bag"
+      ],
+      "meetingPoint": "Saint-Paul Metro Station",
+      "difficulty": "Easy walking",
+      "accessibility": "Mostly accessible",
+      "groupSize": "Maximum 10 guests"
+    },
+    {
+      "id": "wine-tasting-cave",
+      "title": "French Wine Tasting in Historic Cave",
+      "category": "Food & Drink",
+      "tag": "Culinary",
+      "duration": "2 Hours",
+      "priceINR": 5500,
+      "priceEUR": 61,
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&auto=format&fit=crop&q=80",
+      "description": "Learn about French wines with an expert sommelier in an authentic 17th-century wine cellar.",
+      "detailedDescription": "Discover the art of French wine in this intimate tasting experience held in a historic 17th-century wine cellar. Your expert sommelier guides you through a tasting of 5-6 wines from different French regions, explaining terroir, grape varieties, and tasting techniques. Learn about wine pairing, the French classification system, and how to read wine labels like a pro. The cellar's atmospheric setting adds to the experience. Includes tasting notes and recommendations for wines to try during your Paris visit.",
+      "highlights": [
+        "Expert sommelier",
+        "5-6 wine tastings",
+        "Historic cellar",
+        "Small group",
+        "Educational"
+      ],
+      "bestFor": [
+        "Wine enthusiasts",
+        "Beginners",
+        "Couples",
+        "Cultural experience"
+      ],
+      "whatToBring": "Valid ID (required)",
+      "meetingPoint": "Latin Quarter wine cellar",
+      "difficulty": "Beginner-friendly",
+      "accessibility": "Cellar has stairs",
+      "groupSize": "Maximum 8 guests"
+    }
+  ],
+  "neighborhoods": [
+    {
+      "id": "montmartre",
+      "name": "Montmartre",
+      "tag": "Art & History",
+      "priceINR": 12500,
+      "priceEUR": 140,
+      "blurb": "Wander the bohemian streets where Picasso once painted — a hilltop village offering sweeping views.",
+      "image": "https://images.unsplash.com/photo-1550340499-a6c60fc8287c?w=800&auto=format&fit=crop&q=80",
+      "detailedDescription": "Montmartre is the most romantic and bohemian neighborhood in Paris, perched on a hill overlooking the city. This historic district has been home to artists like Picasso, Dalí, and Van Gogh. Key attractions include the Sacré-Cœur Basilica with its panoramic views, the artistic Place du Tertre square, and the Moulin Rouge. The area retains its village-like charm with winding cobblestone streets, hidden cafés, and artists' studios. Perfect for evening strolls and sunset photography.",
+      "highlights": [
+        "Sacré-Cœur Basilica",
+        "Place du Tertre artists' square",
+        "Moulin Rouge",
+        "Panoramic city views",
+        "Artistic heritage"
+      ],
+      "bestFor": [
+        "Art lovers",
+        "Couples",
+        "Photographers",
+        "Evening walks"
+      ],
+      "indianTips": "Great for evening walks - similar to how Indians enjoy promenades. Many Indian restaurants nearby on Rue des Martyrs.",
+      "metroAccess": "Anvers, Abbesses, Lamarck - Caulaincourt"
+    },
+    {
+      "id": "le-marais",
+      "name": "Le Marais",
+      "tag": "Chic & Trendy",
+      "priceINR": 15000,
+      "priceEUR": 168,
+      "blurb": "Historic mansions meet trendy boutiques and hidden courtyards.",
+      "image": "https://images.unsplash.com/photo-1471623320832-752e8bbf8413?w=800&auto=format&fit=crop&q=80",
+      "detailedDescription": "Le Marais is Paris's trendiest neighborhood, beautifully preserved with 17th-century architecture. This area seamlessly blends historic mansions (hôtels particuliers) with contemporary fashion boutiques, art galleries, and hip cafés. Highlights include the Place des Vosges (Paris's oldest planned square), the Centre Pompidou, and the Musée Carnavalet. The district is also home to a vibrant Jewish community around Rue des Rosiers. Excellent for shopping, dining, and cultural exploration.",
+      "highlights": [
+        "Place des Vosges",
+        "Centre Pompidou",
+        "Jewish quarter",
+        "Fashion boutiques",
+        "Art galleries"
+      ],
+      "bestFor": [
+        "Fashion enthusiasts",
+        "History buffs",
+        "Foodies",
+        "Shoppers"
+      ],
+      "indianTips": "Many kosher and vegetarian options available. Great for shopping - similar to trendy areas in Mumbai or Delhi.",
+      "metroAccess": "Saint-Paul, Hôtel de Ville, Arts et Métiers"
+    },
+    {
+      "id": "saint-germain",
+      "name": "Saint-Germain",
+      "tag": "Literary Legacy",
+      "priceINR": 18500,
+      "priceEUR": 205,
+      "blurb": "Sip coffee where philosophers debated — a haven for luxury shopping and intellectual history.",
+      "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800&auto=format&fit=crop&q=80",
+      "detailedDescription": "Saint-Germain-des-Prés is the intellectual heart of Paris, famous for its literary cafés where Sartre, de Beauvoir, and Hemingway once wrote. This elegant Left Bank neighborhood combines prestigious bookstores (like Shakespeare and Company), luxury boutiques, and historic cafés such as Café de Flore and Les Deux Magots. The area also houses the Musée d'Orsay and beautiful churches. Perfect for leisurely strolls, coffee culture, and high-end shopping.",
+      "highlights": [
+        "Literary cafés",
+        "Luxury shopping",
+        "Musée d'Orsay",
+        "Shakespeare and Company",
+        "Beautiful architecture"
+      ],
+      "bestFor": [
+        "Literature lovers",
+        "Coffee enthusiasts",
+        "Luxury shoppers",
+        "History buffs"
+      ],
+      "indianTips": "Great for coffee culture - similar to Café Coffee Day meets upscale Indian cafés. Excellent bookstores.",
+      "metroAccess": "Saint-Germain-des-Prés, Odéon, Mabillon"
+    },
+    {
+      "id": "1st-arrondissement",
+      "name": "1st Arrondissement",
+      "tag": "Grand Splendor",
+      "priceINR": 22000,
+      "priceEUR": 245,
+      "blurb": "Home to the Louvre and Palais Royal — experience the sheer scale of royal Parisian architecture.",
+      "image": "https://images.unsplash.com/photo-1550340499-a6c60fc8287c?w=800&auto=format&fit=crop&q=80",
+      "detailedDescription": "The 1st Arrondissement is the geographic and historic heart of Paris, home to some of the world's most famous monuments. This district houses the Louvre Museum, the Palais Royal with its elegant gardens, and the western tip of Île de la Cité with Notre-Dame Cathedral. The area is characterized by grand boulevards, historic architecture, and some of Paris's finest restaurants. Perfect for first-time visitors wanting to experience the classic Paris landmarks and royal architecture.",
+      "highlights": [
+        "Louvre Museum",
+        "Palais Royal",
+        "Notre-Dame Cathedral",
+        "Tuileries Garden",
+        "Place Vendôme"
+      ],
+      "bestFor": [
+        "First-time visitors",
+        "Art lovers",
+        "History enthusiasts",
+        "Luxury experiences"
+      ],
+      "indianTips": "Very touristy - book tickets in advance like for Taj Mahal. Great for photo opportunities.",
+      "metroAccess": "Louvre-Rivoli, Palais Royal, Châtelet"
+    },
+    {
+      "id": "latin-quarter",
+      "name": "Latin Quarter",
+      "tag": "Student Life",
+      "priceINR": 11000,
+      "priceEUR": 125,
+      "blurb": "The historic student district with narrow medieval streets and lively intellectual atmosphere.",
+      "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=800&auto=format&fit=crop&q=80",
+      "detailedDescription": "The Latin Quarter is Paris's historic student district, centered around the Sorbonne University. This neighborhood retains its medieval character with narrow winding streets, affordable restaurants, and a lively intellectual atmosphere. Key attractions include the Panthéon, the Cluny Museum (famous for its unicorn tapestries), and the famous Shakespeare and Company bookstore. The area is filled with affordable bistros, jazz clubs, and a vibrant energy that makes it popular with young travelers.",
+      "highlights": [
+        "Sorbonne University",
+        "Panthéon",
+        "Shakespeare and Company",
+        "Medieval streets",
+        "Affordable dining"
+      ],
+      "bestFor": [
+        "Students",
+        "Budget travelers",
+        "Book lovers",
+        "Nightlife enthusiasts"
+      ],
+      "indianTips": "Very affordable dining options - like street food areas in Indian cities. Great for budget-conscious travelers.",
+      "metroAccess": "Luxembourg, Cluny-La Sorbonne, Maubert-Mutualité"
+    },
+    {
+      "id": "canal-saint-martin",
+      "name": "Canal Saint-Martin",
+      "tag": "Hip & Local",
+      "priceINR": 9500,
+      "priceEUR": 108,
+      "blurb": "A trendy canal-side neighborhood popular with locals for picnics and relaxed vibes.",
+      "image": "https://images.unsplash.com/photo-1540202404-a2f29016b523?w=800&auto=format&fit=crop&q=80",
+      "detailedDescription": "Canal Saint-Martin is one of Paris's trendiest local neighborhoods, offering a break from the tourist crowds. This picturesque area features iron bridges, locks, and tree-lined canal banks perfect for picnics and people-watching. The neighborhood is filled with hip cafés, vintage shops, and art spaces. It's where young Parisians come to relax, making it perfect for experiencing authentic local life. The area gained fame from the film 'Amélie' and continues to attract creative types.",
+      "highlights": [
+        "Scenic canal walks",
+        "Hip cafés",
+        "Vintage shopping",
+        "Local atmosphere",
+        "Filming location"
+      ],
+      "bestFor": [
+        "Local experience",
+        "Photographers",
+        "Budget travelers",
+        "Young travelers"
+      ],
+      "indianTips": "Great for picnics - similar to Indian park culture. Very authentic local experience, few tourists.",
+      "metroAccess": "République, Goncourt, Jacques Bonsergent"
+    }
+  ],
+  "indianFriendlyFood": [
+    {
+      "id": "vegetarian-restaurants",
+      "title": "Best Vegetarian Restaurants",
+      "description": "Paris has embraced vegetarian cuisine with excellent options from traditional French to international cuisine.",
+      "places": [
+        {
+          "name": "L'As du Fallafel",
+          "type": "Middle Eastern",
+          "area": "Le Marais",
+          "priceINR": 800,
+          "description": "Famous falafel that even meat-lovers adore. Quick, affordable, and delicious."
+        },
+        {
+          "name": "Breizh Café",
+          "type": "Breton Crêpes",
+          "area": "Marais/Canal",
+          "priceINR": 1200,
+          "description": "Authentic Breton crêpes with many vegetarian options. Buckwheat galettes are naturally gluten-free."
+        },
+        {
+          "name": "Wild & The Moon",
+          "type": "Organic/Vegan",
+          "area": "Multiple locations",
+          "priceINR": 1500,
+          "description": "Healthy, organic bowls and smoothies. Perfect for health-conscious Indian travelers."
+        },
+        {
+          "name": "Potager du Marais",
+          "type": "Vegetarian French",
+          "area": "Le Marais",
+          "priceINR": 1800,
+          "description": "Creative vegetarian French cuisine in a cozy setting. A true culinary experience."
+        },
+        {
+          "name": "Tien Hiang",
+          "type": "Asian Vegetarian",
+          "area": "Belleville",
+          "priceINR": 1000,
+          "description": "Vietnamese vegetarian restaurant with mock meats that will remind you of home."
+        }
+      ]
+    },
+    {
+      "id": "indian-restaurants",
+      "title": "Authentic Indian Restaurants",
+      "description": "When you're craving home-cooked flavors, Paris has excellent Indian restaurants run by Indian chefs.",
+      "places": [
+        {
+          "name": "Veda",
+          "type": "North Indian",
+          "area": "Champs-Élysées",
+          "priceINR": 2500,
+          "description": "Upscale Indian dining with authentic flavors and elegant presentation."
+        },
+        {
+          "name": "Le Gandi",
+          "type": "Street Food",
+          "area": "Latin Quarter",
+          "priceINR": 600,
+          "description": "Affordable Indian street food like samosas and curries. Quick and satisfying."
+        },
+        {
+          "name": "Saravana Bhavan",
+          "type": "South Indian",
+          "area": "La Chapelle",
+          "priceINR": 800,
+          "description": "Authentic South Indian thalis and dosas. A taste of Chennai in Paris."
+        },
+        {
+          "name": "Maison de l'Inde",
+          "type": "Canteen",
+          "area": "5th Arrondissement",
+          "priceINR": 500,
+          "description": "Student canteen at the Indian Embassy serving homestyle Indian meals at budget prices."
+        }
+      ]
+    },
+    {
+      "id": "indian-friendly-french",
+      "title": "Indian-Friendly French Dishes",
+      "description": "French dishes that naturally suit Indian palates without modification.",
+      "dishes": [
+        {
+          "name": "Crêpes & Galettes",
+          "description": "Similar to Indian dosas and rotis. Sweet and savory options available.",
+          "where": "Breton crêperies throughout Paris"
+        },
+        {
+          "name": "Onion Soup",
+          "description": "Warm, comforting soup that reminds many of Indian onion-based dishes.",
+          "where": "Traditional bistros"
+        },
+        {
+          "name": "Cheese Board",
+          "description": "Indians who love paneer will appreciate French cheese culture.",
+          "where": "Fromageries and restaurants"
+        },
+        {
+          "name": "Ratatouille",
+          "description": "Vegetable stew similar to Indian mixed vegetable dishes.",
+          "where": "Provençal restaurants"
+        },
+        {
+          "name": "Quiche",
+          "description": "Egg-based dish that works for many Indian vegetarians.",
+          "where": "Bakeries and cafés"
+        }
+      ]
+    }
+  ],
+  "shoppingGuide": [
+    {
+      "category": "Luxury Fashion",
+      "description": "Paris is the fashion capital. Indian travelers love shopping for brands like Louis Vuitton, Chanel, and Hermès.",
+      "areas": [
+        {
+          "name": "Champs-Élysées",
+          "description": "Flagship stores of major luxury brands. Great for window shopping and big purchases.",
+          "indianTip": "Similar to high-end shopping in Mumbai's luxury malls or Delhi's Khan Market."
+        },
+        {
+          "name": "Avenue Montaigne",
+          "description": "The most exclusive shopping street in Paris. Home to Dior, Chanel, and more.",
+          "indianTip": "Ultra-luxury - plan for serious shopping like Delhi's Emporio."
+        },
+        {
+          "name": "Le Bon Marché",
+          "description": "Beautiful department store with luxury brands and excellent food hall.",
+          "indianTip": "Like a more upscale version of Mumbai's Palladium."
+        }
+      ]
+    },
+    {
+      "category": "Souvenirs & Gifts",
+      "description": "Perfect gifts to bring back to India for family and friends.",
+      "items": [
+        {
+          "name": "Macarons",
+          "description": "Famous French cookies. Brands like Ladurée are iconic.",
+          "priceINR": 1200,
+          "where": "Ladurée, Pierre Hermé"
+        },
+        {
+          "name": "French Wine",
+          "description": "Excellent wines at good prices. Great for sharing at home.",
+          "priceINR": 2000,
+          "where": "Nicolas, La Grande Épicerie"
+        },
+        {
+          "name": "Perfume",
+          "description": "Paris is the perfume capital. Custom fragrances available.",
+          "priceINR": 5000,
+          "where": "Galeries Lafayette, Sephora"
+        },
+        {
+          "name": "Fashion Accessories",
+          "description": "Scarves, bags, and jewelry. Chanel scarves are particularly popular.",
+          "priceINR": 8000,
+          "where": "Boutiques and department stores"
+        },
+        {
+          "name": "Gourmet Food",
+          "description": "Mustard, truffle oil, French chocolates, and foie gras.",
+          "priceINR": 1500,
+          "where": "Fauchon, Hédiard"
+        }
+      ]
+    },
+    {
+      "category": "Budget Shopping",
+      "description": "Great shopping without breaking the bank.",
+      "areas": [
+        {
+          "name": "Tati",
+          "description": "Discount fashion store. Fun for bargain hunting.",
+          "indianTip": "Like Sarojini Nagar or Fashion Street markets."
+        },
+        {
+          "name": "Marché aux Puces",
+          "description": "Famous flea market with antiques, vintage, and unique finds.",
+          "indianTip": "Similar to Delhi's Sunday markets or Mumbai's Chor Bazaar."
+        },
+        {
+          "name": "Sales Seasons",
+          "description": "January and July are official sale months with significant discounts.",
+          "indianTip": "Plan trips around these times like Indians plan around Dussehra/Diwali sales."
+        }
+      ]
+    }
+  ],
+  "seasonalGuide": [
+    {
+      "season": "Spring (March-May)",
+      "description": "One of the best times to visit. Pleasant weather and beautiful blooms.",
+      "temperature": "10-20°C",
+      "indianComparison": "Similar to North Indian spring - pleasant but can be cool in mornings.",
+      "highlights": [
+        "Tulip season at parks",
+        "Outdoor café culture returns",
+        "Easter celebrations",
+        "Shoulder season prices"
+      ],
+      "packing": [
+        "Light layers",
+        "Waterproof jacket",
+        "Comfortable walking shoes",
+        "Umbrella"
+      ],
+      "indianTips": "Great weather for sightseeing, similar to spring in Delhi or Mumbai. Book ahead for summer."
+    },
+    {
+      "season": "Summer (June-August)",
+      "description": "Peak tourist season with long days and warm weather.",
+      "temperature": "20-30°C",
+      "indianComparison": "Like pleasant North Indian summer, not as hot as most of India.",
+      "highlights": [
+        "Paris Plage (urban beach)",
+        "Outdoor concerts and festivals",
+        "Long daylight hours",
+        "Open-air markets"
+      ],
+      "packing": [
+        "Light clothing",
+        "Sunscreen",
+        "Sunglasses",
+        "Comfortable sandals"
+      ],
+      "indianTips": "Weather feels very comfortable to Indians used to heat. Crowds are highest - book everything in advance."
+    },
+    {
+      "season": "Autumn (September-November)",
+      "description": "Beautiful fall foliage and fewer crowds. Excellent time to visit.",
+      "temperature": "10-18°C",
+      "indianComparison": "Similar to autumn in hill stations or North India.",
+      "highlights": [
+        "Fall colors in parks",
+        "Wine harvest season",
+        "Fashion week",
+        "Mild weather"
+      ],
+      "packing": [
+        "Light sweater",
+        "Light jacket",
+        "Scarf",
+        "Closed shoes"
+      ],
+      "indianTips": "Perfect weather for Indians. Like pleasant Delhi autumn. Good combination of sightseeing weather and manageable crowds."
+    },
+    {
+      "season": "Winter (December-February)",
+      "description": "Cold but magical with Christmas markets and fewer tourists.",
+      "temperature": "2-8°C",
+      "indianComparison": "Similar to winter in North India, especially Delhi or Chandigarh.",
+      "highlights": [
+        "Christmas markets",
+        "New Year's celebrations",
+        "Indoor museums",
+        "Lower prices"
+      ],
+      "packing": [
+        "Warm coat",
+        "Scarf, gloves, hat",
+        "Boots",
+        "Layers"
+      ],
+      "indianTips": "Indians from North India will be comfortable. South Indians should pack extra warm clothes. Great for budget travel."
+    }
+  ],
+  "budgetBreakdown": [
+    {
+      "category": "Accommodation",
+      "budget": "Budget",
+      "amountINR": 3500,
+      "amountEUR": 40,
+      "description": "Hostels or budget hotels in outer arrondissements. Shared facilities.",
+      "indianEquivalent": "Similar to budget hotels in Indian cities, but higher quality."
+    },
+    {
+      "category": "Accommodation",
+      "budget": "Mid-range",
+      "amountINR": 8000,
+      "amountEUR": 90,
+      "description": "3-star hotels or boutique guesthouses in central areas.",
+      "indianEquivalent": "Like good 3-star hotels in Indian metros."
+    },
+    {
+      "category": "Accommodation",
+      "budget": "Luxury",
+      "amountINR": 25000,
+      "amountEUR": 280,
+      "description": "4-5 star hotels in prime locations with full amenities.",
+      "indianEquivalent": "Similar to luxury hotels in Indian cities."
+    },
+    {
+      "category": "Food",
+      "budget": "Budget",
+      "amountINR": 1500,
+      "amountEUR": 17,
+      "description": "Street food, bakeries, and budget restaurants. Picnics.",
+      "indianEquivalent": "Like street food and local dhabas - very affordable."
+    },
+    {
+      "category": "Food",
+      "budget": "Mid-range",
+      "amountINR": 3500,
+      "amountEUR": 40,
+      "description": "Mix of cafés, bistros, and occasional restaurant meals.",
+      "indianEquivalent": "Like dining at mid-range restaurants in Indian cities."
+    },
+    {
+      "category": "Food",
+      "budget": "Luxury",
+      "amountINR": 8000,
+      "amountEUR": 90,
+      "description": "Fine dining restaurants and gourmet experiences.",
+      "indianEquivalent": "Like upscale dining in 5-star hotels."
+    },
+    {
+      "category": "Transport",
+      "budget": "Local",
+      "amountINR": 500,
+      "amountEUR": 6,
+      "description": "Metro day pass or walking mostly.",
+      "indianEquivalent": "Like local train travel in Mumbai - very efficient."
+    },
+    {
+      "category": "Activities",
+      "budget": "Essential",
+      "amountINR": 10000,
+      "amountEUR": 112,
+      "description": "Major museums and attractions with advance booking.",
+      "indianEquivalent": "Like entry fees for major monuments in India."
+    }
+  ],
+  "galleryImages": [
+    {
+      "id": "eiffel-dawn",
+      "title": "Eiffel Tower at Dawn",
+      "location": "Champ de Mars",
+      "description": "The Iron Lady glows in the early morning light before the crowds arrive.",
+      "image": "https://images.unsplash.com/photo-1769374343053-9a7a3a6d0c6c?w=800&auto=format&fit=crop",
+      "category": "Landmarks"
+    },
+    {
+      "id": "louvre-pyramid",
+      "title": "Louvre Pyramid",
+      "location": "Musée du Louvre",
+      "description": "The iconic glass pyramid contrasts beautifully with the historic palace.",
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&auto=format&fit=crop&q=80",
+      "category": "Museums"
+    },
+    {
+      "id": "montmartre-street",
+      "title": "Montmartre Street",
+      "location": "18th Arrondissement",
+      "description": "Cobblestone streets and artistic heritage in this bohemian neighborhood.",
+      "image": "https://images.unsplash.com/photo-1550340499-a6c60fc8287c?w=800&auto=format&fit=crop",
+      "category": "Neighborhoods"
+    },
+    {
+      "id": "notre-dame",
+      "title": "Notre-Dame Cathedral",
+      "location": "Île de la Cité",
+      "description": "Gothic masterpiece undergoing restoration, still magnificent from outside.",
+      "image": "https://images.unsplash.com/photo-1478391679764-b2d8b3cd1e94?w=800&auto=format&fit=crop&q=80",
+      "category": "Historic Sites"
+    },
+    {
+      "id": "seine-sunset",
+      "title": "Seine River at Sunset",
+      "location": "Pont Alexandre III",
+      "description": "Golden hour reflects beautifully on the Seine with iconic bridges.",
+      "image": "https://images.unsplash.com/photo-1771154138935-d634d2d5cd3b?w=800&auto=format&fit=crop&q=80",
+      "category": "Scenic"
+    },
+    {
+      "id": "versailles-gardens",
+      "title": "Versailles Gardens",
+      "location": "Palace of Versailles",
+      "description": "Immaculate French gardens stretching as far as the eye can see.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=800&auto=format&fit=crop",
+      "category": "Palaces"
+    },
+    {
+      "id": "le-marais",
+      "title": "Le Marais Architecture",
+      "location": "3rd Arrondissement",
+      "description": "Beautiful 17th-century architecture and hidden courtyards.",
+      "image": "https://images.unsplash.com/photo-1471623320832-752e8bbf8413?w=800&auto=format&fit=crop&q=80",
+      "category": "Neighborhoods"
+    },
+    {
+      "id": "sacre-coeur",
+      "title": "Sacré-Cœur Basilica",
+      "location": "Montmartre",
+      "description": "White domed basilica overlooking Paris from its hilltop location.",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&auto=format&fit=crop&q=80",
+      "category": "Religious Sites"
+    },
+    {
+      "id": "paris-cafe",
+      "title": "Parisian Café",
+      "location": "Saint-Germain",
+      "description": "Classic sidewalk café culture that defines Parisian life.",
+      "image": "https://images.unsplash.com/photo-1775210603660-bc48e2c8756a?w=800&auto=format&fit=crop&q=80",
+      "category": "Lifestyle"
+    },
+    {
+      "id": "champs-elysees",
+      "title": "Champs-Élysées",
+      "location": "8th Arrondissement",
+      "description": "The world's most beautiful avenue lined with shops and theaters.",
+      "image": "https://images.unsplash.com/photo-1762596845866-7e14105d4489?w=800&auto=format&fit=crop&q=80",
+      "category": "Shopping"
+    },
+    {
+      "id": "latin-quarter",
+      "title": "Latin Quarter Streets",
+      "location": "5th Arrondissement",
+      "description": "Narrow medieval streets filled with bookstores and cafés.",
+      "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=800&auto=format&fit=crop&q=80",
+      "category": "Neighborhoods"
+    },
+    {
+      "id": "tuileries-garden",
+      "title": "Tuileries Garden",
+      "location": "1st Arrondissement",
+      "description": "Formal French gardens between the Louvre and Place de la Concorde.",
+      "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&auto=format&fit=crop",
+      "category": "Parks"
+    }
+  ]
+}

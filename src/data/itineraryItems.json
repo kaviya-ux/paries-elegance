@@ -1,0 +1,110 @@
+{
+  "interestOptions": [
+    {
+      "id": "heritage",
+      "label": "Heritage & Art"
+    },
+    {
+      "id": "culinary",
+      "label": "Culinary Delights"
+    },
+    {
+      "id": "shopping",
+      "label": "Luxury Shopping"
+    },
+    {
+      "id": "family",
+      "label": "Family Friendly"
+    }
+  ],
+  "itineraryPool": [
+    {
+      "interest": "heritage",
+      "time": "10:00 AM",
+      "slot": "Morning",
+      "title": "Louvre & Tuileries Garden",
+      "description": "Skip-the-line guided tour exploring iconic masterpieces, followed by a stroll through the gardens.",
+      "costINR": 1500
+    },
+    {
+      "interest": "heritage",
+      "time": "2:00 PM",
+      "slot": "Afternoon",
+      "title": "Notre-Dame & Île de la Cité",
+      "description": "Walk the historic island at the heart of Paris and see the cathedral's ongoing restoration.",
+      "costINR": 900
+    },
+    {
+      "interest": "heritage",
+      "time": "9:30 AM",
+      "slot": "Morning",
+      "title": "Musée d'Orsay Impressionists",
+      "description": "A focused tour of Monet, Van Gogh and Degas in a former Belle Époque railway station.",
+      "costINR": 1700
+    },
+    {
+      "interest": "culinary",
+      "time": "1:30 PM",
+      "slot": "Lunch",
+      "title": "Le Train Bleu Experience",
+      "description": "Dine in Belle Époque splendor with a reserved table for classic French gastronomy.",
+      "costINR": 4500
+    },
+    {
+      "interest": "culinary",
+      "time": "11:00 AM",
+      "slot": "Morning",
+      "title": "Marché des Enfants Rouges",
+      "description": "Explore Paris's oldest covered market and sample street food from across France.",
+      "costINR": 1200
+    },
+    {
+      "interest": "culinary",
+      "time": "7:00 PM",
+      "slot": "Evening",
+      "title": "Seine Dinner Cruise",
+      "description": "A multi-course dinner cruise past illuminated landmarks along the river.",
+      "costINR": 6800
+    },
+    {
+      "interest": "shopping",
+      "time": "3:00 PM",
+      "slot": "Afternoon",
+      "title": "Rue Saint-Honoré Boutiques",
+      "description": "Private consultation and shopping session across flagship luxury houses.",
+      "costINR": 3000
+    },
+    {
+      "interest": "shopping",
+      "time": "10:30 AM",
+      "slot": "Morning",
+      "title": "Galeries Lafayette & Rooftop",
+      "description": "Browse the historic department store and take in skyline views from the rooftop terrace.",
+      "costINR": 800
+    },
+    {
+      "interest": "family",
+      "time": "10:00 AM",
+      "slot": "Morning",
+      "title": "Jardin d'Acclimatation",
+      "description": "A gentle amusement park and garden, ideal for a relaxed family morning.",
+      "costINR": 2200
+    },
+    {
+      "interest": "family",
+      "time": "2:30 PM",
+      "slot": "Afternoon",
+      "title": "Eiffel Tower with Kids' Trail",
+      "description": "A family-paced visit with an interactive scavenger-hunt guide for children.",
+      "costINR": 3500
+    },
+    {
+      "interest": "family",
+      "time": "11:00 AM",
+      "slot": "Morning",
+      "title": "Cité des Sciences",
+      "description": "An interactive science museum with hands-on exhibits for all ages.",
+      "costINR": 1600
+    }
+  ]
+}
