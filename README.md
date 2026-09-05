@@ -53,7 +53,7 @@ A sophisticated travel experience platform designed specifically for Indian trav
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/paris-elegance.git
+   git clone https://github.com/kaviya-ux/paris-elegance.git
    cd paris-elegance
    ```
 
