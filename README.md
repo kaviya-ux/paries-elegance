@@ -185,7 +185,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions, suggestions, or feedback, please reach out:
 
 - **Email**: contact@pariselegance.com
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/paris-elegance/issues)
+- **GitHub Issues**: [Open an issue](https://github.com/kaviya-ux/paris-elegance/issues)
 
 ## 🗺️ Roadmap
 
